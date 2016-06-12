@@ -55,7 +55,7 @@ int main()
 }
 ```
 ## Suffix Array Construction
-The current version uses Yuta Mori's fast suffix array construction library libdivsufsort version 2.0.1.
+The current version uses Yuta Mori's fast suffix array construction library [libdivsufsort](http://code.google.com/p/libdivsufsort/) version 2.0.1.
 
 ## Contributors
 ### Code
