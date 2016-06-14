@@ -61,7 +61,7 @@ The current version uses Yuta Mori's fast suffix array construction library [lib
 ### Code
   •	Longgang Chen （陈龙刚）   
   •	Heng Zhao （赵恒）  
-  •	Wenwu Bai （白文武） 
+  •	Wenwu Bai （白文武）     
   •	Xiaoyang Chen （陈晓阳）  
 
 ### Paper
