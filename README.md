@@ -10,6 +10,14 @@
          distribution, which matches the optimality of the Gamma encoding to the run-lengths.
 	 
 	 
+	 CSA is a practical implementation of the compressed suffix arrays (CSA) theory, 
+	 introduced by Roberto Grossi and Jeffrey Scott Vitter. CSA retains the high-order 
+	 entropy-compressed theoretical performance and introduces some improvements in practice.
+	 
+	 counting: compute the number of occurrences of a pattern P in the text T.
+	 locating: report the list of positions, where P occurs in T.
+	 extract: extraction of arbitrary portions of text T.
+	 
 	 counting: compute the number of occurrences of a pattern P in the text T.
 	 locating: report the list of positions, where P occurs in T.
 	 extract: extraction of arbitrary portions of text T.
