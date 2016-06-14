@@ -1,7 +1,7 @@
 # FM-Adaptive
 
 ## What is it?
-FM-Adaptive is a variation of FM-index and it combines the Burrows-Wheeler transform (BWT) and the wavelet tree (WT).  
+FM-Adaptive is a full-text compressed index, and it combines the Burrows-Wheeler transform (BWT) and the wavelet tree (WT).  
 It partitions adaptively the node bit vector in the WT into blocks and applies the hybrid encoding along with run-length 
 Gamma encoding to each block while explores data-aware compression. It retains the high-order entropy-compressed theoretical performance and introduces some improvements in practice. Statistical evidence shows that the distribution of run-lengths 
 for the non-repetitive data appears to follow a power-law distribution, which matches the optimality of the Gamma encoding 
