@@ -59,13 +59,13 @@ The current version uses Yuta Mori's fast suffix array construction library [lib
 
 ## Contributors
 ### Code
-  •	Longgang Chen   
-  •	Xiaoyang Chen   
-  •	Wenwu Bai   
-  •	Heng Zhao   
+  •	Longgang Chen （陈龙刚）   
+  •	Heng Zhao （赵恒）  
+  •	Wenwu Bai （白文武） 
+  •	Xiaoyang Chen （陈晓阳）  
 
 ### Paper
-FM-Adaptive is an improvement implementation of the paper.
+FM-Adaptive is an implementation of the paper.
 
 Hongwei Huo, Longgang Chen, Heng Zhao, Jeffrey Scott Vitter, Yakov Nekrich, and Qiang Yu, A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
 
