@@ -15,15 +15,15 @@
 
 ## How to use it?
 ### just for fun
- step 1: download it or clone it
- step 2: make
- step 3: run my_fm
+ step 1: download it or clone it  
+ step 2: make  
+ step 3: run my_fm  
 
 ### build your own program
- step 1: download or clone it
- step 2: make
- step 3: include FM.h
- step 4: g++ your_program.cpp -o xx -fm.a
+ step 1: download or clone it  
+ step 2: make   
+ step 3: include FM.h   
+ step 4: g++ your_program.cpp -o xx -fm.a   
 
 ### example
 ```cpp
@@ -61,7 +61,7 @@ int main()
 }
 ```
 ## Suffix Array Construction
-  	 The current version uses Yuta Mori's fast suffix array construction library [libdivsufsort](http://code.google.com/p/libdivsufsort/) version 2.0.1.
+  The current version uses Yuta Mori's fast suffix array construction library [libdivsufsort](http://code.google.com/p/libdivsufsort/) version 2.0.1.
 
 ## Contributors
 ### Code
@@ -71,9 +71,9 @@ int main()
   •	Xiaoyang Chen （陈晓阳）  
 
 ### Paper
-  	 FM-Adaptive is an implementation of the paper.
+  FM-Adaptive is an implementation of the paper.
 
-  	 Hongwei Huo, Longgang Chen, Heng Zhao, Jeffrey Scott Vitter, Yakov Nekrich, and Qiang Yu, A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
+  Hongwei Huo, Longgang Chen, Heng Zhao, Jeffrey Scott Vitter, Yakov Nekrich, and Qiang Yu, A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
 
 ## ChangeLog
 2014.5.25:
