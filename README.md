@@ -32,6 +32,7 @@
 using namespace std;
 int main()
 {
+    int speedlevel = 1;
     FM fm("filename", speedlevel); //default speedlevel = 1
     int num;
     fm.Counting("the", num);
