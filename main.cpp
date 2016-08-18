@@ -29,9 +29,12 @@ int main(int argc, char* argv[])
 		command="";
 		cout<<">";
 		getline(cin,command);
+		command+=" ";
 		splitcommand(command,result);
 		if(result[0]=="quit")
+		{
 			break;
+		}	
 		else if(result[0]=="build")
 		{
 			if(csa!=NULL)
@@ -136,15 +139,15 @@ void splitcommand(string command,string result[])
 	int i=0;
 	int start=0;
 	int len=command.length();
-	result[0]=command;
 	int j = 0;
-
+	result[0]=command;
 	for(i=0;i<len;i++)
 	{
-		if(command.at(i)!=' ')
-			continue;
-		result[j++]=command.substr(start,i - start);
-		start=i+1;
+        if(command[i] == ' ')
+        {
+          result[j++] = command.substr(start,i - start);
+          start = i + 1;
+         }
 	}
 }
 
