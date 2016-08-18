@@ -32,7 +32,7 @@
 using namespace std;
 int main()
 {
-    FM fm("filename");
+    FM fm("filename", speedlevel); //default speedlevel = 1
     int num;
     fm.Counting("the", num);
     cout << "pattern the occs " << num<< " times" <<endl;
