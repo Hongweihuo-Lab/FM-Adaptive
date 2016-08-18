@@ -7,14 +7,15 @@ using namespace std;
 int main(int argc,char ** argvs)
 {
 	
-	if(argc!=2)
+	if(argc!=3)
 	{
-		cout<<"use it like:   ./my_fm file"<<endl;
+		cout<<"use it like:   ./my_fm file speedlevel"<<endl;
 		exit(0);
 	}
 
 	time_t t3 = clock();
-	FM fm(argvs[1]);
+	int speedlevel = atoi(argv[2]);
+	FM fm(argvs[1], speedlevel);
 	time_t t4 = clock();
 	cout<<"build time: "<<(t4-t3)/1000000.0<<endl;
 		//cout<<"fm is ready"<<endl;
