@@ -106,5 +106,5 @@ Rank from head or tail will not save time for any kind of document. if the file 
 2014.6.6: 
 draw back search function has the potential to works faster. Working on it
 
-2016.8.18：
+2016.6.15：
 fix some bugs
