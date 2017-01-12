@@ -67,8 +67,7 @@ int main()
 ## Contributors
 ### Code
   •	Longgang Chen （陈龙刚）   
-  •	Heng Zhao （赵恒）  
-  •	Wenwu Bai （白文武）     
+  •	Heng Zhao （赵恒）     
   •	Xiaoyang Chen （陈晓阳）  
 
 ### Paper
