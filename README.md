@@ -73,7 +73,7 @@ int main()
 ### Paper
   FM-Adaptive is an implementation of the paper.
 
-  Hongwei Huo, Longgang Chen, Heng Zhao, Jeffrey Scott Vitter, Yakov Nekrich, and Qiang Yu, A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
+  H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
 
 ## ChangeLog
 2014.5.25:
