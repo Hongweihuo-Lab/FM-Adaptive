@@ -68,7 +68,6 @@ int main()
 ### Code
   •	Longgang Chen （陈龙刚）   
   •	Heng Zhao （赵恒）     
-  •	Xiaoyang Chen （陈晓阳）  
 
 ### Paper
 H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
