@@ -64,11 +64,7 @@ int main()
 ## Suffix Array Construction
   The current version uses Yuta Mori's fast suffix array construction library [libdivsufsort](http://code.google.com/p/libdivsufsort/) version 2.0.1.
 
-## Contributors
-### Code
-  •	Longgang Chen   
-
-### Paper
+## Paper
 H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
 
 ## ChangeLog
