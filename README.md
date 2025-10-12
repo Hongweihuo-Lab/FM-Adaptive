@@ -65,11 +65,13 @@ int main()
   The current version uses Yuta Mori's fast suffix array construction library [libdivsufsort](http://code.google.com/p/libdivsufsort/) version 2.0.1.
 
 ## Paper
-H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
+1. H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
+2. H. Huo, Z. He, P. Liu, and J. S. Vitter, FM-Adaptive: A Practical Data-Aware FM-Index, The Expanding World of Compressed Data, July 25, 2025, Venice, Italy, 5:1--5:23.
+The new code the practical improvement of FM-Adaptive is available at Code Ocean (https://doi.org/10.24433/CO.7967727.v1).
 
 ## ChangeLog
 2025.10.12:
-We release a code of a practical improved versin of [FM-Adaptive](https://doi.org/10.4230/OASIcs.Manzini.5) in code ocean (https://doi.org/10.24433/CO.7967727.v1).
+We release a code of a practical improved versin of [FM-Adaptive](https://doi.org/10.4230/OASIcs.Manzini.5) at Code Ocean (https://doi.org/10.24433/CO.7967727.v1).
 
 2014.5.25:
 Use the Lookup Tables, and cross them, it looks helpful, count works faster about 25~35%. 
