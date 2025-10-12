@@ -68,6 +68,9 @@ int main()
 H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
 
 ## ChangeLog
+2025.10.12:
+We release a code of an improved versin of [FM-Adaptive](https://doi.org/10.24433/CO.7967727.v1).
+
 2014.5.25:
 Use the Lookup Tables, and cross them, it looks helpful, count works faster about 25~35%. 
 
