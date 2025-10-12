@@ -69,7 +69,7 @@ H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-inde
 
 ## ChangeLog
 2025.10.12:
-We release a code of an improved versin of [FM-Adaptive]{https://doi.org/10.4230/OASIcs.Manzini.5} in code ocean (https://doi.org/10.24433/CO.7967727.v1).
+We release a code of an improved versin of [FM-Adaptive](https://doi.org/10.4230/OASIcs.Manzini.5) in code ocean (https://doi.org/10.24433/CO.7967727.v1).
 
 2014.5.25:
 Use the Lookup Tables, and cross them, it looks helpful, count works faster about 25~35%. 
