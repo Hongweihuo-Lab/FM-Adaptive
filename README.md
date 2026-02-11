@@ -66,8 +66,10 @@ int main()
 
 ## Paper
 [1] H. Huo, L. Chen, H. Zhao, J. S. Vitter, Y. Nekrich, et al., A Data-Aware FM-index, ACM-SIAM Proceedings of the 17th Meeting on Algorithm Engineering and Experiments (ALENEX), San Diego, California, USA, 2015, 10–23.
+
 [2] H. Huo, Z. He, P. Liu, and J. S. Vitter, FM-Adaptive: A Practical Data-Aware FM-Index, The Expanding World of Compressed Data, July 25, 2025, Venice, Italy, 5:1--5:23.
 The new code for the practical improvement of FM-Adaptive is available at Code Ocean (https://codeocean.com/capsule/9070718/tree/v1).
+
 [3] Grossi, Roberto and Vitter, Jeffrey Scott and Xu, Bojian, Wavelet trees: From Theory to Practice, Proceedings of the 1st International Conference on Data Compression, Communications and Processing, 2011, 210--221.
 
 ## ChangeLog
