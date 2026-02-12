@@ -74,7 +74,7 @@ The new code for the practical improvement of FM-Adaptive is available at Code O
 
 ## ChangeLog
 2026.01.12
-We released an improved version [2] of 2015FM-Adaptive [1] on GitHub. 
+We released the code of an improved version [2] of 2015FM-Adaptive [1] on GitHub (https://github.com/Hongweihuo-Lab/FM-Adaptive2). 
 
 2025.10.12:
 We release the code for the practical improvement of [FM-Adaptive](https://doi.org/10.4230/OASIcs.Manzini.5) [2] at Code Ocean (https://codeocean.com/capsule/9070718/tree/v1). 
